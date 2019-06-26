@@ -1,0 +1,9 @@
+data/
+.DS_Store
+.ipynb_checkpoints/
+.pyc
+__pycache__/
+*.docx
+misc/
+deliverable/
+code/
